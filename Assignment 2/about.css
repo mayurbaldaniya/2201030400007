@@ -1,0 +1,201 @@
+.about2 {
+  margin: 0;
+  width: 211px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.about-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) var(--padding-3xs);
+}
+.we-are-creating {
+  width: 1241px;
+  position: relative;
+  display: inline-block;
+}
+.we-are-creating-a-world-where-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-4xs);
+}
+.we-dont-settle {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-16xl);
+}
+.frame-parent21 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+  font-size: 45px;
+}
+.nice-to-e-meet {
+  margin: 0;
+  width: 509px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.nice-to-e-meet-you-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-10xl);
+  font-size: var(--font-size-36xl);
+}
+.about-inner,
+.frame-parent20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent20 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-4xs);
+}
+.about-inner {
+  width: 1410px;
+  flex-direction: row;
+  padding: 0 var(--padding-61xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 70px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-icon,
+.study-together-in {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.study-together-in {
+  height: 420px;
+  display: inline-block;
+  min-width: 468px;
+}
+.rectangle-icon {
+  align-self: stretch;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-wrapper3 {
+  height: 490px;
+  width: 633px;
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  min-width: 633px;
+  max-width: 100%;
+}
+.about1,
+.rectangle-wrapper3,
+.study-together-in-a-virtual-c-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.study-together-in-a-virtual-c-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 76px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.about1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #1e1839;
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-85xl) 0 0 var(--padding-2xs);
+  box-sizing: border-box;
+  gap: var(--gap-4xs);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .about-inner {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .rectangle-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .rectangle-wrapper3 {
+    flex: 1;
+  }
+  .study-together-in-a-virtual-c-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .about2 {
+    font-size: 56px;
+  }
+  .we-are-creating {
+    font-size: var(--font-size-17xl);
+  }
+  .we-dont-settle {
+    font-size: var(--font-size-9xl);
+  }
+  .nice-to-e-meet {
+    font-size: var(--font-size-25xl);
+  }
+  .study-together-in {
+    font-size: var(--font-size-9xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .rectangle-wrapper3,
+  .study-together-in {
+    min-width: 100%;
+  }
+  .study-together-in-a-virtual-c-parent {
+    gap: var(--gap-19xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .about2 {
+    font-size: 42px;
+  }
+  .we-are-creating {
+    font-size: 27px;
+  }
+  .we-dont-settle {
+    font-size: var(--font-size-2xl);
+  }
+  .nice-to-e-meet {
+    font-size: var(--font-size-14xl);
+  }
+  .study-together-in {
+    font-size: var(--font-size-2xl);
+  }
+  .study-together-in-a-virtual-c-parent {
+    gap: var(--gap-lgi);
+  }
+}

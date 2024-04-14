@@ -1,0 +1,455 @@
+.connect-students-worldwide1 {
+  margin: 0;
+  width: 849px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.image-2-icon {
+  height: 65px;
+  width: 65px;
+  position: relative;
+  object-fit: cover;
+}
+.global-reach {
+  align-self: stretch;
+  position: relative;
+}
+.connection-header,
+.image-2-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.connection-header {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+  min-width: 167px;
+}
+.image-2-parent {
+  width: 349px;
+  flex-direction: row;
+  gap: var(--gap-8xl);
+  max-width: 100%;
+}
+.image-5-icon {
+  height: 65px;
+  width: 65px;
+  position: relative;
+  object-fit: cover;
+}
+.borderless-collaboration {
+  align-self: stretch;
+  position: relative;
+}
+.borderless-collaboration-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+  min-width: 316px;
+  max-width: 100%;
+}
+.frame-parent6,
+.image-5-parent {
+  width: 578px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-8xl);
+  max-width: 100%;
+}
+.frame-parent6 {
+  width: 1267px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.bring-together-students {
+  align-self: stretch;
+  position: relative;
+}
+.countries-and-cultures {
+  width: 612px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.bring-together-students-from-d-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+  max-width: 100%;
+}
+.each-others-diverse {
+  width: 590px;
+  position: relative;
+  display: inline-block;
+}
+.each-others-diverse-perspecti-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-mini);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-3-icon {
+  height: 65px;
+  width: 65px;
+  position: relative;
+  object-fit: cover;
+}
+.language-diversity {
+  align-self: stretch;
+  position: relative;
+}
+.image-3-parent,
+.language-diversity-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.language-diversity-wrapper {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) 0 0;
+  min-width: 246px;
+}
+.image-3-parent {
+  width: 495px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 var(--padding-mini);
+  gap: var(--gap-32xl);
+  font-size: var(--font-size-21xl);
+}
+.facilitate-cross-cultural-exch {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.and-language-learning {
+  width: 380px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.facilitate-cross-cultural-exch-parent,
+.frame-wrapper4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.facilitate-cross-cultural-exch-parent {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-wrapper4 {
+  width: 590px;
+  flex-direction: row;
+  padding: 0 var(--padding-10xs) var(--padding-10xs);
+  box-sizing: border-box;
+}
+.opportunities-through-virtual {
+  width: 603px;
+  position: relative;
+  display: inline-block;
+}
+.frame-parent8,
+.frame-wrapper3,
+.opportunities-through-virtual-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.opportunities-through-virtual-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+}
+.frame-parent8,
+.frame-wrapper3 {
+  flex-direction: column;
+}
+.frame-parent8 {
+  align-self: stretch;
+}
+.frame-wrapper3 {
+  flex: 1;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  min-width: 426px;
+}
+.and-teamwork-among,
+.foster-meaningful-connections {
+  width: 532px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.across-geographical-boundaries {
+  width: 561px;
+  position: relative;
+  display: inline-block;
+}
+.across-geographical-boundaries-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+}
+.image-4-icon {
+  height: 65px;
+  width: 65px;
+  position: relative;
+  object-fit: cover;
+}
+.flexible-scheduling {
+  align-self: stretch;
+  position: relative;
+}
+.flexible-scheduling-wrapper,
+.image-4-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.flexible-scheduling-wrapper {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  min-width: 249px;
+}
+.image-4-parent {
+  width: 475px;
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-8xl);
+  font-size: var(--font-size-21xl);
+}
+.and-teamwork-among-students-parent,
+.foster-meaningful-connections-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.and-teamwork-among-students-parent {
+  gap: var(--gap-8xs);
+}
+.foster-meaningful-connections-parent {
+  gap: 6px;
+}
+.accommodate-students-in,
+.time-zones-with {
+  align-self: stretch;
+  position: relative;
+}
+.real-time-session-options {
+  width: 446px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.accommodate-students-in-variou-parent,
+.frame-wrapper5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.accommodate-students-in-variou-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-10xs);
+}
+.frame-wrapper5 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+}
+.frame-parent9 {
+  width: 599px;
+  flex-direction: column;
+  gap: var(--gap-mini);
+  min-width: 599px;
+  max-width: 100%;
+}
+.connection1,
+.f-r-a-m-e,
+.frame-parent7,
+.frame-parent9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent7 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 34px;
+  max-width: 100%;
+  font-size: var(--font-size-16xl);
+}
+.connection1,
+.f-r-a-m-e {
+  flex-direction: column;
+  text-align: center;
+  font-family: var(--font-inter);
+}
+.f-r-a-m-e {
+  align-self: stretch;
+  gap: var(--gap-3xs);
+  max-width: 100%;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.connection1 {
+  width: 100%;
+  position: relative;
+  background-color: #0d0f34;
+  overflow: hidden;
+  padding: 187px 48px 214px var(--padding-85xl);
+  box-sizing: border-box;
+  gap: 116px;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--font-size-41xl);
+  color: var(--color-ghostwhite-200);
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent6 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .frame-parent9 {
+    flex: 1;
+  }
+  .frame-parent7 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .connect-students-worldwide1 {
+    font-size: var(--font-size-29xl);
+  }
+  .borderless-collaboration,
+  .global-reach {
+    font-size: var(--font-size-13xl);
+  }
+  .bring-together-students,
+  .countries-and-cultures,
+  .each-others-diverse {
+    font-size: var(--font-size-9xl);
+  }
+  .language-diversity {
+    font-size: var(--font-size-13xl);
+  }
+  .across-geographical-boundaries,
+  .and-language-learning,
+  .and-teamwork-among,
+  .facilitate-cross-cultural-exch,
+  .foster-meaningful-connections,
+  .opportunities-through-virtual {
+    font-size: var(--font-size-9xl);
+  }
+  .flexible-scheduling {
+    font-size: var(--font-size-13xl);
+  }
+  .accommodate-students-in,
+  .real-time-session-options,
+  .time-zones-with {
+    font-size: var(--font-size-9xl);
+  }
+  .frame-parent9 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .image-5-parent {
+    flex-wrap: wrap;
+  }
+  .image-3-parent {
+    flex-wrap: wrap;
+    gap: var(--gap-6xl);
+  }
+  .frame-wrapper3 {
+    min-width: 100%;
+  }
+  .frame-parent7 {
+    gap: var(--gap-mid);
+  }
+  .connection1 {
+    gap: 58px;
+    padding-left: 52px;
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .connect-students-worldwide1 {
+    font-size: var(--font-size-17xl);
+  }
+  .global-reach {
+    font-size: var(--font-size-5xl);
+  }
+  .image-2-parent {
+    flex-wrap: wrap;
+  }
+  .borderless-collaboration {
+    font-size: var(--font-size-5xl);
+  }
+  .bring-together-students,
+  .countries-and-cultures,
+  .each-others-diverse {
+    font-size: var(--font-size-2xl);
+  }
+  .language-diversity {
+    font-size: var(--font-size-5xl);
+  }
+  .across-geographical-boundaries,
+  .and-language-learning,
+  .and-teamwork-among,
+  .facilitate-cross-cultural-exch,
+  .foster-meaningful-connections,
+  .opportunities-through-virtual {
+    font-size: var(--font-size-2xl);
+  }
+  .flexible-scheduling {
+    font-size: var(--font-size-5xl);
+  }
+  .image-4-parent {
+    flex-wrap: wrap;
+  }
+  .accommodate-students-in,
+  .real-time-session-options,
+  .time-zones-with {
+    font-size: var(--font-size-2xl);
+  }
+  .connection1 {
+    gap: var(--gap-10xl);
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

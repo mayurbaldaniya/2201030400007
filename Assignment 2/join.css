@@ -1,0 +1,195 @@
+.join-a-global {
+  margin: 0;
+  width: 1048px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.global-learning {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 65px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.unlock-a-world {
+  width: 1089px;
+  position: relative;
+  display: inline-block;
+}
+.knowledge-base {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) var(--padding-4xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.learning-community-connect {
+  width: 1069px;
+  position: relative;
+  display: inline-block;
+}
+.project-collaboration {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) var(--padding-xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.backgrounds-collaborate-on {
+  width: 1041px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.knowledge-across-a {
+  width: 1038px;
+  position: relative;
+  display: inline-block;
+}
+.knowledge-base1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.supportive-network-that {
+  width: 1042px;
+  position: relative;
+  display: inline-block;
+}
+.academic-goals {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.academic-goals1 {
+  width: 306px;
+  position: relative;
+  display: inline-block;
+}
+.image-16-icon,
+.image-17-icon {
+  align-self: stretch;
+  width: 242px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 102px;
+}
+.image-17-icon {
+  width: 281px;
+}
+.images {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 40px;
+}
+.join1,
+.subject-images,
+.subject-images-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.subject-images {
+  flex-direction: column;
+  gap: 49px;
+  max-width: 100%;
+}
+.join1,
+.subject-images-wrapper {
+  box-sizing: border-box;
+}
+.subject-images-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-10xs);
+  max-width: 100%;
+}
+.join1 {
+  width: 100%;
+  position: relative;
+  background-color: #111230;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 268px 113px 151px;
+  gap: 8px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .join1 {
+    padding-left: var(--padding-37xl);
+    padding-right: var(--padding-37xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .join-a-global {
+    font-size: 52px;
+  }
+  .academic-goals1,
+  .backgrounds-collaborate-on,
+  .knowledge-across-a,
+  .learning-community-connect,
+  .supportive-network-that,
+  .unlock-a-world {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .image-16-icon,
+  .image-17-icon {
+    flex: 1;
+  }
+  .images {
+    flex-wrap: wrap;
+    gap: var(--gap-xl);
+  }
+  .subject-images {
+    gap: 24px;
+  }
+  .join1 {
+    padding-left: var(--padding-9xl);
+    padding-right: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .join-a-global {
+    font-size: 39px;
+  }
+  .academic-goals1,
+  .backgrounds-collaborate-on,
+  .knowledge-across-a,
+  .learning-community-connect,
+  .supportive-network-that,
+  .unlock-a-world {
+    font-size: var(--font-size-5xl);
+  }
+}

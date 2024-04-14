@@ -1,0 +1,215 @@
+.flexible-scheduling1 {
+  margin: 0;
+  width: 568px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.flexible-scheduler {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xs);
+}
+.image-8-icon {
+  height: 27px;
+  width: 21px;
+  position: relative;
+  object-fit: cover;
+}
+.flexible-scheduling-for {
+  align-self: stretch;
+  position: relative;
+}
+.flexible-scheduling-for-virtua-wrapper,
+.image-8-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.flexible-scheduling-for-virtua-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  min-width: 344px;
+}
+.image-8-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-sm);
+}
+.image-9-icon {
+  width: 21px;
+  height: 27px;
+  position: relative;
+  object-fit: cover;
+}
+.accommodate-diverse-time {
+  width: 556px;
+  position: absolute;
+  margin: 0 !important;
+  right: -26px;
+  bottom: -1px;
+  font-size: 23px;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-parent17 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 30px;
+  max-width: 100%;
+}
+.image-10-icon {
+  height: 27px;
+  width: 21px;
+  position: relative;
+  object-fit: cover;
+}
+.customize-your-learning {
+  align-self: stretch;
+  position: relative;
+}
+.customize-your-learning-experi-wrapper,
+.image-10-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.customize-your-learning-experi-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+  min-width: 287px;
+}
+.image-10-parent {
+  width: 497px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-sm);
+}
+.frame-parent16 {
+  align-self: stretch;
+  padding: 0 14px 0 0;
+  box-sizing: border-box;
+  gap: 36px;
+  font-size: var(--font-size-6xl);
+}
+.flexible-scheduler-parent,
+.frame-parent16,
+.scheduling-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.flexible-scheduler-parent {
+  align-self: stretch;
+  gap: 65.6px;
+}
+.scheduling-inner {
+  width: 579px;
+  padding: 298.5px 0 0;
+  box-sizing: border-box;
+  min-width: 579px;
+}
+.image-7-icon,
+.scheduling {
+  position: relative;
+  overflow: hidden;
+}
+.image-7-icon {
+  height: 1024px;
+  flex: 1;
+  max-width: 100%;
+  object-fit: cover;
+  min-width: 538px;
+}
+.scheduling {
+  width: 100%;
+  background-color: #151f37;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-14xl);
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+  row-gap: 20px;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1125px) {
+  .scheduling-inner {
+    flex: 1;
+  }
+  .scheduling {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .flexible-scheduling1 {
+    font-size: var(--font-size-29xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .image-8-parent {
+    flex-wrap: wrap;
+  }
+  .frame-parent16 {
+    gap: 18px;
+  }
+  .flexible-scheduler-parent {
+    gap: 33px;
+  }
+  .scheduling-inner {
+    padding-top: 194px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .image-7-icon {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .flexible-scheduling1 {
+    font-size: var(--font-size-17xl);
+  }
+  .flexible-scheduling-for {
+    font-size: var(--font-size-xl);
+  }
+  .flexible-scheduling-for-virtua-wrapper {
+    min-width: 100%;
+  }
+  .accommodate-diverse-time {
+    font-size: 18px;
+  }
+  .customize-your-learning {
+    font-size: var(--font-size-xl);
+  }
+  .image-10-parent {
+    flex-wrap: wrap;
+  }
+  .flexible-scheduler-parent {
+    gap: 16px;
+  }
+}

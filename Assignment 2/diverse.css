@@ -1,0 +1,202 @@
+.diverse-subjects-and {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.diverse-subjects-and-topics-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.explore-a-wide {
+  font-size: var(--font-size-6xl);
+}
+.explore-a-wide-container {
+  height: 75px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.explore-a-wide-range-of-academ-wrapper {
+  width: 601px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.collaborate-on-projects {
+  font-size: var(--font-size-6xl);
+}
+.collaborate-on-projects-container {
+  height: 48px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.disciplines-fostering-interdi {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-6xl);
+}
+.diverse-dialogs {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.and-problem-solving {
+  width: 262px;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+}
+.academic-network,
+.project-connect {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.academic-network {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-8xs);
+}
+.project-connect {
+  width: 590px;
+  flex-direction: row;
+  padding: 0 var(--padding-2xs);
+  box-sizing: border-box;
+}
+.engage-in-discussions {
+  font-size: var(--font-size-6xl);
+}
+.engage-in-discussions-container {
+  height: 48px;
+  position: relative;
+  display: inline-block;
+}
+.emerging-trends-across {
+  width: 618px;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  max-width: 100%;
+}
+.topic-trends,
+.topic-trends-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.topic-trends {
+  flex-direction: column;
+  gap: var(--gap-8xs);
+}
+.topic-trends-wrapper {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-2xs);
+  box-sizing: border-box;
+}
+.academic-explorer {
+  gap: 13px;
+  font-size: var(--font-size-21xl);
+}
+.academic-explorer,
+.diverse-inner,
+.frame-parent15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent15 {
+  align-self: stretch;
+  gap: 52.5px;
+}
+.diverse-inner {
+  width: 688px;
+  padding: 225.4px 0 0;
+  box-sizing: border-box;
+  min-width: 688px;
+}
+.image-6-icon {
+  width: 730px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.diverse {
+  width: 100%;
+  position: relative;
+  background-color: #201d46;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 32px;
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+  row-gap: 20px;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1350px) {
+  .diverse-inner,
+  .image-6-icon {
+    flex: 1;
+  }
+  .diverse {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .diverse-subjects-and {
+    font-size: var(--font-size-21xl);
+  }
+  .frame-parent15 {
+    gap: var(--gap-7xl);
+  }
+  .diverse-inner {
+    padding-top: 147px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .diverse-subjects-and {
+    font-size: var(--font-size-11xl);
+  }
+  .and-problem-solving,
+  .collaborate-on-projects-container,
+  .disciplines-fostering-interdi,
+  .emerging-trends-across,
+  .engage-in-discussions-container,
+  .explore-a-wide-container {
+    font-size: var(--font-size-xl);
+  }
+}
